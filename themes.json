@@ -1,0 +1,364 @@
+{
+  "itachi": {
+    "name": "Itachi Uchiwa",
+    "design": {
+      "header": "☯️ ▬▬▬▬▬▬▬❖ ",
+      "line": "         🦅 ",
+      "footer": "👁 ▬▬▬▬▬▬▬▬🥷▬▬▬▬▬▬▬▬⬣",
+      "bullet": "◆",
+      "quoteheader": "Ceux qui se pardonnent et acceptent leur vraie nature... sont les plus forts.",
+      "quotefooter": "Le véritable shinobi endure la haine pour protéger la paix."
+    },
+    "media": {
+      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/8kik7g.jpeg",
+        "gif": "https://files.catbox.moe/0t7v4k.jpeg",
+        "video": "https://files.catbox.moe/07y1n7.jpeg",
+        "image": "https://files.catbox.moe/yu8675.jpeg",
+        "audio": "https://files.catbox.moe/14dp56.jpeg",
+        "sticker": "https://files.catbox.moe/e8hi9o.jpeg"
+      }
+    }
+  },
+  "madara": {
+    "name": "Madara Uchiwa",
+    "design": {
+      "header": "🔥 ════════════⬣ ",
+      "line": "        ║ 💀 ",
+      "footer": "🔥 ╚═══════════════⚔️ ════╝",
+      "bullet": "■",
+      "quoteheader": "Dans ce monde, partout où il y a de la lumière, il y a aussi des ombres.",
+      "quotefooter": "Réveille-toi de ton rêve. Le pouvoir absolu ne se demande pas, il se prend."
+    },
+    "media": {
+      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/0t7v4k.jpeg",
+        "gif": "https://files.catbox.moe/pw8bau.jpg",
+        "video": "https://files.catbox.moe/pw8bau.jpg",
+        "image": "https://files.catbox.moe/pw8bau.jpg",
+        "audio": "https://files.catbox.moe/pw8bau.jpg",
+        "sticker": "https://files.catbox.moe/pw8bau.jpg"
+      }
+    }
+  },
+  "shisui": {
+    "name": "Shisui Uchiwa",
+    "design": {      "header": "🍃 ╾───────╼♠︎",
+      "line": "        │ 🍀 ",
+      "footer": "🍃 ╼──────────────💧 ───────────╾♣︎",
+      "bullet": "♥︎",
+      "quoteheader": "La vraie force ne réside pas dans le pouvoir, mais dans la volonté de protéger.",
+      "quotefooter": "Je confie mon regard et ma volonté au futur que nous construirons."
+    },
+    "media": {
+      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/07y1n7.jpeg",
+        "gif": "https://files.catbox.moe/pw8bau.jpg",
+        "video": "https://files.catbox.moe/pw8bau.jpg",
+        "image": "https://files.catbox.moe/pw8bau.jpg",
+        "audio": "https://files.catbox.moe/pw8bau.jpg",
+        "sticker": "https://files.catbox.moe/pw8bau.jpg"
+      }
+    }
+  },
+  "gojo": {
+    "name": "Satoru Gojo",
+    "design": {
+      "header": "♾️ ◈▬▬▬▬▬▬▬⬣",
+      "line": "         🌌 ",
+      "footer": "🌏 ▬▬▬▬▬▬▬▬▬▬💠▬▬▬▬▬▬▬■",
+      "bullet": "★",
+      "quoteheader": "À travers le ciel et la terre, je suis le seul et unique. N'aie pas peur.",
+      "quotefooter": "Le monde est bien plus vaste quand on arrête de suivre les règles des faibles."
+    },
+    "media": {
+      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/e8hi9o.jpeg",
+        "gif": "https://files.catbox.moe/pw8bau.jpg",
+        "video": "https://files.catbox.moe/pw8bau.jpg",
+        "image": "https://files.catbox.moe/pw8bau.jpg",
+        "audio": "https://files.catbox.moe/pw8bau.jpg",
+        "sticker": "https://files.catbox.moe/pw8bau.jpg"
+      }
+    }
+  },
+  "sasuke": {
+    "name": "Sasuke Uchiwa",
+    "design": {
+      "header": "⚛️ ╱─────────◇",
+      "line": "        │ 🩸 ",
+      "footer": "✡️ ╲────────────⚔️ ──────────╱",
+      "bullet": "¤",      "quoteheader": "J'ai longtemps erré dans les ténèbres, mais je marche maintenant vers ma propre lumière.",
+      "quotefooter": "Je porterai le poids de mes actes pour que le village ne tombe plus."
+    },
+    "media": {
+      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/8kik7g.jpeg",
+        "gif": "https://files.catbox.moe/pw8bau.jpg",
+        "video": "https://files.catbox.moe/pw8bau.jpg",
+        "image": "https://files.catbox.moe/pw8bau.jpg",
+        "audio": "https://files.catbox.moe/pw8bau.jpg",
+        "sticker": "https://files.catbox.moe/pw8bau.jpg"
+      }
+    }
+  },
+  "mikey": {
+    "name": "Mikey Sano",
+    "design": {
+      "header": "🔶️ ╔═══════卍 ",
+      "line": "      卍 ️",
+      "footer": "🔷️ ╚═════════════🐉 ══════════╝",
+      "bullet": "♧",
+      "quoteheader": "Un vrai chef ne laisse jamais personne derrière lui. On avance ensemble, ou on meurt séparés.",
+      "quotefooter": "Invincible Mikey. Je protégerai ce qui compte, même si je dois briser le monde."
+    },
+    "media": {
+      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/14dp56.jpeg",
+        "gif": "https://files.catbox.moe/pw8bau.jpg",
+        "video": "https://files.catbox.moe/pw8bau.jpg",
+        "image": "https://files.catbox.moe/pw8bau.jpg",
+        "audio": "https://files.catbox.moe/pw8bau.jpg",
+        "sticker": "https://files.catbox.moe/pw8bau.jpg"
+      }
+    }
+  },
+  "nagi": {
+    "name": "Nagi Seishiro",
+    "design": {
+      "header": "⚽ ╭─────────◆ ",
+      "line": "        │ 📱 ",
+      "footer": "⚽ ╰────────────⚽ ──────────╯",
+      "bullet": "●",
+      "quoteheader": "Le talent, c'est quand l'effort devient naturel. Je ne force rien, je laisse le jeu venir.",
+      "quotefooter": "Dormir, rêver, marquer. Le monde attendra bien mon réveil."
+    },
+    "media": {      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/yu8675.jpeg",
+        "gif": "https://files.catbox.moe/pw8bau.jpg",
+        "video": "https://files.catbox.moe/pw8bau.jpg",
+        "image": "https://files.catbox.moe/pw8bau.jpg",
+        "audio": "https://files.catbox.moe/pw8bau.jpg",
+        "sticker": "https://files.catbox.moe/pw8bau.jpg"
+      }
+    }
+  },
+  "aizen": {
+    "name": "Sousuke Aizen",
+    "design": {
+      "header": "🗡 ▬▬▬▬▬▬▬★ ",
+      "line": "         💎 ",
+      "footer": "☠️ ▬▬▬▬▬▬▬▬⚰️▬▬▬▬▬▬▬▬◆",
+      "bullet": "♠︎",
+      "quoteheader": "Depuis le début, personne n'était debout sur le ciel. Ni toi, ni moi, ni même les dieux.",
+      "quotefooter": "L'illusion parfaite ne se brise pas. Elle devient la seule réalité."
+    },
+    "media": {
+      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/0t7v4k.jpeg",
+        "gif": "https://files.catbox.moe/pw8bau.jpg",
+        "video": "https://files.catbox.moe/pw8bau.jpg",
+        "image": "https://files.catbox.moe/pw8bau.jpg",
+        "audio": "https://files.catbox.moe/pw8bau.jpg",
+        "sticker": "https://files.catbox.moe/pw8bau.jpg"
+      }
+    }
+  },
+  "benimaru": {
+    "name": "Benimaru Shinmon",
+    "design": {
+      "header": "🌕 ───────⬣ ",
+      "line": "        │ 🐉 ",
+      "footer": "🌑 ────────────🗡️ ───────────╯",
+      "bullet": "◆",
+      "quoteheader": "La loyauté n'est pas une chaîne. C'est le feu qui forge les vrais frères d'armes.",
+      "quotefooter": "Je ne cherche pas la gloire. Je protège ceux qui marchent dans mon ombre."
+    },
+    "media": {
+      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/yu8675.jpeg",        "gif": "https://files.catbox.moe/pw8bau.jpg",
+        "video": "https://files.catbox.moe/pw8bau.jpg",
+        "image": "https://files.catbox.moe/pw8bau.jpg",
+        "audio": "https://files.catbox.moe/pw8bau.jpg",
+        "sticker": "https://files.catbox.moe/pw8bau.jpg"
+      }
+    }
+  },
+  "yami": {
+    "name": "Yami Sukehiro",
+    "design": {
+      "header": "🌑 ▓▓▓▓▓▓▓▓▓▓▓ ",
+      "line": "     🗡 ",
+      "footer": "⚪️ ▓▓▓▓▓▓▓▓▓🟤▓▓▓▓▓▓▓▓▓",
+      "bullet": "▸",
+      "quoteheader": "🚬 \"Dépasse tes limites. Maintenant.\"",
+      "quotefooter": " Slasher de Magie Noire"
+    },
+    "media": {
+      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/8kik7g.jpeg",
+        "gif": "https://files.catbox.moe/pw8bau.jpg",
+        "video": "https://files.catbox.moe/pw8bau.jpg",
+        "image": "https://files.catbox.moe/pw8bau.jpg",
+        "audio": "https://files.catbox.moe/pw8bau.jpg",
+        "sticker": "https://files.catbox.moe/pw8bau.jpg"
+      }
+    }
+  },
+  "anos": {
+    "name": "Anos Voldigod",
+    "design": {
+      "header": "👑 ◤◢◤◢◤◢◤◢◤◢ ",
+      "line": "     ◆ ",
+      "footer": "⚜️ ◥◣◥◣◥◣◥◣◥◣◥◣◥◣ 👁️◢◤◢◤◢◤◢◤◢◤",
+      "bullet": "◇",
+      "quoteheader": "🔥 \"Crois-tu que me tuer suffirait ?\"",
+      "quotefooter": " Roi Démon Réincarné"
+    },
+    "media": {
+      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/0t7v4k.jpeg",
+        "gif": "https://files.catbox.moe/pw8bau.jpg",
+        "video": "https://files.catbox.moe/pw8bau.jpg",
+        "image": "https://files.catbox.moe/pw8bau.jpg",
+        "audio": "https://files.catbox.moe/pw8bau.jpg",        "sticker": "https://files.catbox.moe/pw8bau.jpg"
+      }
+    }
+  },
+  "ohma": {
+    "name": "Ohma Tokita",
+    "design": {
+      "header": "👊 ░▒▓██████████▓▒░ ",
+      "line": "     🥊 ",
+      "footer": "💥 ░▒▓██████████▓▒░ 💥░▓██████▓▒░",
+      "bullet": "►",
+      "quoteheader": "🔥 \"Le Style Niko ne connaît pas de limites.\"",
+      "quotefooter": " Asura Incarné"
+    },
+    "media": {
+      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/yu8675.jpeg",
+        "gif": "https://files.catbox.moe/pw8bau.jpg",
+        "video": "https://files.catbox.moe/pw8bau.jpg",
+        "image": "https://files.catbox.moe/pw8bau.jpg",
+        "audio": "https://files.catbox.moe/pw8bau.jpg",
+        "sticker": "https://files.catbox.moe/pw8bau.jpg"
+      }
+    }
+  },
+  "meliodas": {
+    "name": "Meliodas",
+    "design": {
+      "header": "⚔️ ◇◈◇◇◈◇◇◈ ",
+      "line": "     🐉 ",
+      "footer": "😈 ◇◈◇◈◇◇◈◇◇◇ 😈◇◈◇◈◇◈◇",
+      "bullet": "◈",
+      "quoteheader": "💚 \"Full Counter. Rends-moi toute cette magie.\"",
+      "quotefooter": "  Dragon du Péché Déchaîné"
+    },
+    "media": {
+      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/e8hi9o.jpeg",
+        "gif": "https://files.catbox.moe/pw8bau.jpg",
+        "video": "https://files.catbox.moe/pw8bau.jpg",
+        "image": "https://files.catbox.moe/pw8bau.jpg",
+        "audio": "https://files.catbox.moe/pw8bau.jpg",
+        "sticker": "https://files.catbox.moe/pw8bau.jpg"
+      }
+    }
+  },  "tanjiro": {
+    "name": "Tanjiro Kamado",
+    "design": {
+      "header": "🔥 ━━━━━━━━━━❖ ",
+      "line": "       │ 🌸 ",
+      "footer": "🌊 ━━━━━━━━━━━⚜️━━━━━━━━━◆",
+      "bullet": "¤",
+      "quoteheader": "💧 \"Ne renonce jamais. Même si tu es seul, continue d'avancer.\"",
+      "quotefooter": "  Respirations de l'Eau et du Soleil"
+    },
+    "media": {
+      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/8kik7g.jpeg",
+        "gif": "https://files.catbox.moe/pw8bau.jpg",
+        "video": "https://files.catbox.moe/pw8bau.jpg",
+        "image": "https://files.catbox.moe/pw8bau.jpg",
+        "audio": "https://files.catbox.moe/pw8bau.jpg",
+        "sticker": "https://files.catbox.moe/pw8bau.jpg"
+      }
+    }
+  },
+  "luffy": {
+    "name": "Monkey D. Luffy",
+    "design": {
+      "header": "🏴‍☠️ ▬▬▬▬▬▬▬♣︎ ",
+      "line": "       🍖 ",
+      "footer": "💧 ▬▬▬▬▬▬▬▬🩸▬▬▬▬▬▬▬⬣",
+      "bullet": "★",
+      "quoteheader": "🔥 \"Je ne veux pas conquérir quoi que ce soit. Le plus libre sur les mers, c'est moi !\"",
+      "quotefooter": "  Roi des Pirates"
+    },
+    "media": {
+      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/0t7v4k.jpeg",
+        "gif": "https://files.catbox.moe/pw8bau.jpg",
+        "video": "https://files.catbox.moe/pw8bau.jpg",
+        "image": "https://files.catbox.moe/pw8bau.jpg",
+        "audio": "https://files.catbox.moe/pw8bau.jpg",
+        "sticker": "https://files.catbox.moe/pw8bau.jpg"
+      }
+    }
+  },
+  "sukuna": {
+    "name": "Ryomen Sukuna",
+    "design": {
+      "header": "⛩️ ══════════❖ ",      
+      "line": "     ║ 👁️ ",
+      "footer": "⛩️ ════════════👹═════════¤",
+      "bullet": "✦",
+      "quoteheader": "⚡ \"À genoux. C'est l'ordre du Roi des Fléaux.\"",
+      "quotefooter": "  Technique de Découpe et de Fission"
+    },
+    "media": {
+      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/yu8675.jpeg",
+        "gif": "https://files.catbox.moe/pw8bau.jpg",
+        "video": "https://files.catbox.moe/pw8bau.jpg",
+        "image": "https://files.catbox.moe/pw8bau.jpg",
+        "audio": "https://files.catbox.moe/pw8bau.jpg",
+        "sticker": "https://files.catbox.moe/pw8bau.jpg"
+      }
+    }
+  }
+}
