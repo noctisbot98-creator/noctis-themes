@@ -49,7 +49,7 @@
     "name": "Shisui Uchiwa",
     "design": {      "header": "🍃 ╾───────╼♠︎",
       "line": "        │ 🍀 ",
-      "footer": "🍃 ╼──────────────💧 ───────────╾♣︎",
+      "footer": "🍃 ╼───────💧 ──────╾♣︎",
       "bullet": "♥︎",
       "quoteheader": "La vraie force ne réside pas dans le pouvoir, mais dans la volonté de protéger.",
       "quotefooter": "Je confie mon regard et ma volonté au futur que nous construirons."
@@ -72,7 +72,7 @@
     "design": {
       "header": "♾️ ◈▬▬▬▬▬▬▬⬣",
       "line": "         🌌 ",
-      "footer": "🌏 ▬▬▬▬▬▬▬▬▬▬💠▬▬▬▬▬▬▬■",
+      "footer": "🌏 ▬▬▬▬▬▬▬💠▬▬▬▬▬▬■",
       "bullet": "★",
       "quoteheader": "À travers le ciel et la terre, je suis le seul et unique. N'aie pas peur.",
       "quotefooter": "Le monde est bien plus vaste quand on arrête de suivre les règles des faibles."
@@ -95,7 +95,7 @@
     "design": {
       "header": "⚛️ ╱─────────◇",
       "line": "        │ 🩸 ",
-      "footer": "✡️ ╲────────────⚔️ ──────────╱",
+      "footer": "✡️ ╲────────⚔️ ───────╱",
       "bullet": "¤",      "quoteheader": "J'ai longtemps erré dans les ténèbres, mais je marche maintenant vers ma propre lumière.",
       "quotefooter": "Je porterai le poids de mes actes pour que le village ne tombe plus."
     },
@@ -117,7 +117,7 @@
     "design": {
       "header": "🔶️ ╔═══════卍 ",
       "line": "      卍 ️",
-      "footer": "🔷️ ╚═════════════🐉 ══════════╝",
+      "footer": "🔷️ ╚═════════🐉 ══════╝",
       "bullet": "♧",
       "quoteheader": "Un vrai chef ne laisse jamais personne derrière lui. On avance ensemble, ou on meurt séparés.",
       "quotefooter": "Invincible Mikey. Je protégerai ce qui compte, même si je dois briser le monde."
@@ -140,7 +140,7 @@
     "design": {
       "header": "⚽ ╭─────────◆ ",
       "line": "        │ 📱 ",
-      "footer": "⚽ ╰────────────⚽ ──────────╯",
+      "footer": "⚽ ╰────────⚽ ──────╯",
       "bullet": "●",
       "quoteheader": "Le talent, c'est quand l'effort devient naturel. Je ne force rien, je laisse le jeu venir.",
       "quotefooter": "Dormir, rêver, marquer. Le monde attendra bien mon réveil."
@@ -162,7 +162,7 @@
     "design": {
       "header": "🗡 ▬▬▬▬▬▬▬★ ",
       "line": "         💎 ",
-      "footer": "☠️ ▬▬▬▬▬▬▬▬⚰️▬▬▬▬▬▬▬▬◆",
+      "footer": "☠️ ▬▬▬▬▬▬▬⚰️▬▬▬▬▬▬▬▬◆",
       "bullet": "♠︎",
       "quoteheader": "Depuis le début, personne n'était debout sur le ciel. Ni toi, ni moi, ni même les dieux.",
       "quotefooter": "L'illusion parfaite ne se brise pas. Elle devient la seule réalité."
@@ -185,7 +185,7 @@
     "design": {
       "header": "🌕 ───────⬣ ",
       "line": "        │ 🐉 ",
-      "footer": "🌑 ────────────🗡️ ───────────╯",
+      "footer": "🌑 ────────🗡️ ──────╯",
       "bullet": "◆",
       "quoteheader": "La loyauté n'est pas une chaîne. C'est le feu qui forge les vrais frères d'armes.",
       "quotefooter": "Je ne cherche pas la gloire. Je protège ceux qui marchent dans mon ombre."
@@ -230,7 +230,7 @@
     "design": {
       "header": "👑 ◤◢◤◢◤◢◤◢◤◢ ",
       "line": "     ◆ ",
-      "footer": "⚜️ ◥◣◥◣◥◣◥◣◥◣◥◣◥◣ 👁️◢◤◢◤◢◤◢◤◢◤",
+      "footer": "⚜️ ◥◣◥◣◥◣◥◣◥◣ 👁️◢◤◢◤◢◤◢◤",
       "bullet": "◇",
       "quoteheader": "🔥 \"Crois-tu que me tuer suffirait ?\"",
       "quotefooter": " Roi Démon Réincarné"
@@ -275,7 +275,7 @@
     "design": {
       "header": "⚔️ ◇◈◇◇◈◇◇◈ ",
       "line": "     🐉 ",
-      "footer": "😈 ◇◈◇◈◇◇◈◇◇◇ 😈◇◈◇◈◇◈◇",
+      "footer": "😈 ◇◈◇◈◇◇ 😈◇◈◇◈◇",
       "bullet": "◈",
       "quoteheader": "💚 \"Full Counter. Rends-moi toute cette magie.\"",
       "quotefooter": "  Dragon du Péché Déchaîné"
@@ -297,7 +297,7 @@
     "design": {
       "header": "🔥 ━━━━━━━━━━❖ ",
       "line": "       │ 🌸 ",
-      "footer": "🌊 ━━━━━━━━━━━⚜️━━━━━━━━━◆",
+      "footer": "🌊 ━━━━━━━━━⚜️━━━━━━━━◆",
       "bullet": "¤",
       "quoteheader": "💧 \"Ne renonce jamais. Même si tu es seul, continue d'avancer.\"",
       "quotefooter": "  Respirations de l'Eau et du Soleil"
@@ -343,7 +343,7 @@
     "design": {
       "header": "⛩️ ══════════❖ ",      
       "line": "     ║ 👁️ ",
-      "footer": "⛩️ ════════════👹═════════¤",
+      "footer": "⛩️ ═════════👹════════¤",
       "bullet": "✦",
       "quoteheader": "⚡ \"À genoux. C'est l'ordre du Roi des Fléaux.\"",
       "quotefooter": "  Technique de Découpe et de Fission"
