@@ -4,7 +4,7 @@
     "design": {
       "header": "☯️ ▬▬▬▬▬▬▬❖ ",
       "line": "         🦅 ",
-      "footer": "👁 ▬▬▬▬▬▬▬▬🥷▬▬▬▬▬▬▬▬⬣",
+      "footer": "👁 ▬▬▬▬▬▬▬▬🥷▬▬▬▬▬▬▬▬✿",
       "bullet": "◆",
       "quoteheader": "Ceux qui se pardonnent et acceptent leur vraie nature... sont les plus forts.",
       "quotefooter": "Le véritable shinobi endure la haine pour protéger la paix."
@@ -48,10 +48,10 @@
   "shisui": {
     "name": "Shisui Uchiwa",
     "design": {
-      "header": "🍃 ╾───────╼♠️︎",
-      "line": "        │ 🍀 ",
-      "footer": "🍃 ╼───────💧 ──────╾♣️︎",
-      "bullet": "♥️︎",
+      "header": "☘ ╾──────╼♠️︎",
+      "line": "        │ ⚘ ",
+      "footer": "🍃 ╼───────💧──────╾♣️︎",
+      "bullet": "❥",
       "quoteheader": "La vraie force ne réside pas dans le pouvoir, mais dans la volonté de protéger.",
       "quotefooter": "Je confie mon regard et ma volonté au futur que nous construirons."
     },
@@ -71,9 +71,9 @@
   "gojo": {
     "name": "Satoru Gojo",
     "design": {
-      "header": "♾️ ◈▬▬▬▬▬▬▬☯︎",
+      "header": "♾️ ▬▬▬▬▬▬▬☯︎",
       "line": "         🌌 ",
-      "footer": "🌏 ▬▬▬▬▬▬▬💠▬▬▬▬▬▬ꕥ",
+      "footer": "🌏 ▬▬▬▬▬▬▬💠▬▬▬▬▬▬❖",
       "bullet": "✿",
       "quoteheader": "À travers le ciel et la terre, je suis le seul et unique. N'aie pas peur.",
       "quotefooter": "Le monde est bien plus vaste quand on arrête de suivre les règles des faibles."
@@ -94,10 +94,10 @@
   "sasuke": {
     "name": "Sasuke Uchiwa",
     "design": {
-      "header": "⚛️ ╱─────────◇",
+      "header": "⚛️ ╱───────◇",
       "line": "        │ 🩸 ",
-      "footer": "✡️ ╲────────⚔️ ───────╱",
-      "bullet": "ꕥ",
+      "footer": "✡️ ╲───────⚔️───────╱",
+      "bullet": "❖",
       "quoteheader": "J'ai longtemps erré dans les ténèbres, mais je marche maintenant vers ma propre lumière.",
       "quotefooter": "Je porterai le poids de mes actes pour que le village ne tombe plus."
     },
@@ -119,13 +119,13 @@
     "design": {
       "header": "🔶 ╔═══════卍 ",
       "line": "      卍 ️",
-      "footer": "🔷 ╚═════════🐉 ══════╝",
+      "footer": "🔷 ╚═══════🐉══════╝",
       "bullet": "⋞⋟",
       "quoteheader": "Un vrai chef ne laisse jamais personne derrière lui. On avance ensemble, ou on meurt séparés.",
       "quotefooter": "Invincible Mikey. Je protégerai ce qui compte, même si je dois briser le monde."
     },
     "media": {
-      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "video": "https://files.catbox.moe/cqzr81.mp4",
       "audio": "https://files.catbox.moe/xqtrev.ogg",
       "deco": {
         "text": "https://files.catbox.moe/izmhxd.jpg",
@@ -140,9 +140,9 @@
   "nagi": {
     "name": "Nagi Seishiro",
     "design": {
-      "header": "⚽️ ╭─────────◆ ",
+      "header": "⚽️ ╭────────◆ ",
       "line": "        │ 📱 ",
-      "footer": "⚽️ ╰────────⚽️ ──────╯",
+      "footer": "⚽️ ╰────────⚽️──────╯",
       "bullet": "●",
       "quoteheader": "Le talent, c'est quand l'effort devient naturel. Je ne force rien, je laisse le jeu venir.",
       "quotefooter": "Dormir, rêver, marquer. Le monde attendra bien mon réveil."
@@ -163,7 +163,7 @@
   "aizen": {
     "name": "Sousuke Aizen",
     "design": {
-      "header": "🗡 ▬▬▬▬▬▬▬★ ",
+      "header": "🗡 ▬▬▬▬▬▬▬✿ ",
       "line": "         💎 ",
       "footer": "☠️ ▬▬▬▬▬▬▬⚰️▬▬▬▬▬▬▬▬◆",
       "bullet": "ᖫ✧",
@@ -186,10 +186,10 @@
   "benimaru": {
     "name": "Benimaru Shinmon",
     "design": {
-      "header": "🌕 ───────⬣ ",
-      "line": "        │ 🐉 ",
-      "footer": "🌑 ────────🗡 ──────╯",
-      "bullet": "◆",
+      "header": "🌕 ╭───────✿ ",
+      "line": "        │ ☯︎ ",
+      "footer": "🌑 ╰───────☉──────╯",
+      "bullet": "☪︎",
       "quoteheader": "La loyauté n'est pas une chaîne. C'est le feu qui forge les vrais frères d'armes.",
       "quotefooter": "Je ne cherche pas la gloire. Je protège ceux qui marchent dans mon ombre."
     },
@@ -209,7 +209,7 @@
   "yami": {
     "name": "Yami Sukehiro",
     "design": {
-      "header": "🌑 ▓▓▓▓▓▓▓▓▓▓▓ ",
+      "header": "🌑 ▓▓▓▓▓▓▓▓▓☯︎ ",
       "line": "     🗡 ",
       "footer": "⚪️ ▓▓▓▓▓▓▓▓▓🟤▓▓▓▓▓▓▓▓▓",
       "bullet": "༒",
@@ -234,7 +234,7 @@
     "design": {
       "header": "👑 ◤◢◤◢◤◢◤◢◤◢ ",
       "line": "     ◆ ",
-      "footer": "⚜️ ◥◣◥◣◥◣◥◣◥◣ 👁◢◤◢◤◢◤◢◤",
+      "footer": "⚜️ ◥◣◥◣◥◣◥◣◥◣👁◢◤◢◤◢◤◢◤",
       "bullet": "⫸",
       "quoteheader": "🔥 \"Crois-tu que me tuer suffirait ?\"",
       "quotefooter": " Roi Démon Réincarné"
@@ -255,9 +255,9 @@
   "ohma": {
     "name": "Ohma Tokita",
     "design": {
-      "header": "👊 ░▒▓██████████▓▒░ ",
+      "header": "👊 ░▒▓███████▓▒░ ",
       "line": "     🥊 ",
-      "footer": "💥 ░▒▓██████████▓▒░ 💥░▓██████▓▒░",
+      "footer": "💥 ░▒▓███████▓▒░💥░▓█████▓▒░",
       "bullet": "❖",
       "quoteheader": "🔥 \"Le Style Niko ne connaît pas de limites.\"",
       "quotefooter": " Asura Incarné"
@@ -278,9 +278,9 @@
   "meliodas": {
     "name": "Meliodas",
     "design": {
-      "header": "⚔️ ◇◈◇◇◈◇◇◈ ",
+      "header": "⚔️ 𓆸𓆸𓆸𓆸𓆸𓆸☬ ",
       "line": "     🐉 ",
-      "footer": "😈 ◇◈◇◈◇◇ 😈◇◈◇◈◇",
+      "footer": "😈 ༺༻༺༻༺༒༻༺༻༺",
       "bullet": "❥",
       "quoteheader": "💚 \"Full Counter. Rends-moi toute cette magie.\"",
       "quotefooter": "  Dragon du Péché Déchaîné"
@@ -301,10 +301,10 @@
   "tanjiro": {
     "name": "Tanjiro Kamado",
     "design": {
-      "header": "🔥 ━━━━━━━━━━❖ ",
+      "header": "🔥 ━━━━━━━━━❖ ",
       "line": "       │ 🌸 ",
       "footer": "🌊 ━━━━━━━━━⚜️━━━━━━━━◆",
-      "bullet": "❆",
+      "bullet": "❥",
       "quoteheader": "💧 \"Ne renonce jamais. Même si tu es seul, continue d'avancer.\"",
       "quotefooter": "  Respirations de l'Eau et du Soleil"
     },
@@ -326,7 +326,7 @@
     "design": {
       "header": "🏴‍☠️ ▬▬▬▬▬▬▬♣️︎ ",
       "line": "       🍖 ",
-      "footer": "💧 ▬▬▬▬▬▬▬▬🩸▬▬▬▬▬▬▬⬣",
+      "footer": "💧 ▬▬▬▬▬▬▬🩸▬▬▬▬▬▬▬⬣",
       "bullet": "༺",
       "quoteheader": "🔥 \"Je ne veux pas conquérir quoi que ce soit. Le plus libre sur les mers, c'est moi !\"",
       "quotefooter": "  Roi des Pirates"
@@ -347,9 +347,9 @@
   "sukuna": {
     "name": "Ryomen Sukuna",
     "design": {
-      "header": "⛩ ══════════❖ ",
-      "line": "     ║ 👁 ",
-      "footer": "⛩ ═════════👹════════¤",
+      "header": "⛩ ═════════❖ ",
+      "line": "     ║ 🔥 ",
+      "footer": "⛩ ═════════👹════════☯︎",
       "bullet": "✦",
       "quoteheader": "⚡️ \"À genoux. C'est l'ordre du Roi des Fléaux.\"",
       "quotefooter": "  Technique de Découpe et de Fission"
