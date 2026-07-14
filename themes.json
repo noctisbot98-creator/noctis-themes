@@ -80,7 +80,7 @@
     },
     "media": {
       "video": "https://files.catbox.moe/xzbtdd.mp4",
-      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "audio": "https://files.catbox.moe/o0sm1k.ogg",
       "deco": {
         "text": "https://files.catbox.moe/eef8vm.jpg",
         "gif": "https://files.catbox.moe/2dlghb.jpg",
@@ -332,7 +332,7 @@
       "quotefooter": "  Roi des Pirates"
     },
     "media": {
-      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "video": "https://files.catbox.moe/9mjnxr.mp4",
       "audio": "https://files.catbox.moe/xqtrev.ogg",
       "deco": {
         "text": "https://files.catbox.moe/rliqeq.jpg",
@@ -364,6 +364,98 @@
         "image": "https://files.catbox.moe/3rif1x.jpg",
         "audio": "https://files.catbox.moe/mslr7k.jpg",
         "sticker": "https://files.catbox.moe/n66vl7.jpg"
+      }
+    }
+  },
+  "shelby": {
+    "name": "Thomas Shelby",
+    "design": {
+      "header": "╭━━━◈━━━✦",
+      "line": "┃",
+      "footer": "╰━━━◈━━━✦━━━◈━━━╯",
+      "bullet": "🚬",
+      "quoteheader": "Par ordre des Peaky Blinders.",
+      "quotefooter": "Dans la brume, nous sommes les rois."
+    },
+    "media": {
+      "video": "https://files.catbox.moe/b2094q.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/8kik7g.jpeg",
+        "gif": "https://files.catbox.moe/0t7v4k.jpeg",
+        "video": "https://files.catbox.moe/07y1n7.jpeg",
+        "image": "https://files.catbox.moe/yu8675.jpeg",
+        "audio": "https://files.catbox.moe/14dp56.jpeg",
+        "sticker": "https://files.catbox.moe/e8hi9o.jpeg"
+      }
+    }
+  },
+  "reddington": {
+    "name": "Raymond Reddington",
+    "design": {
+      "header": "🎩 ◇◈◇◈◇◈◇◈◇",
+      "line": "    🌹 ",
+      "footer": "📜 ◈◇◈◇◈◇◈◇◈🔫◈◇◈◇◈◇◈🎩",
+      "bullet": "🗞",
+      "quoteheader": "Je ne suis pas un monstre. Je suis un artiste du chaos.",
+      "quotefooter": "La vérité est plus étrange que la fiction."
+    },
+    "media": {
+      "video": "https://files.catbox.moe/et1jq7.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/8kik7g.jpeg",
+        "gif": "https://files.catbox.moe/0t7v4k.jpeg",
+        "video": "https://files.catbox.moe/07y1n7.jpeg",
+        "image": "https://files.catbox.moe/yu8675.jpeg",
+        "audio": "https://files.catbox.moe/14dp56.jpeg",
+        "sticker": "https://files.catbox.moe/e8hi9o.jpeg"
+      }
+    }
+  },
+  "tarip": {
+    "name": "Tariq St. Patrick",
+    "design": {
+      "header": "┏━━━◉━━━❖",
+      "line": "┃",
+      "footer": "┗━━━◉━━━❖━━━◉━━━┛",
+      "bullet": "💸",
+      "quoteheader": "Je ne suis pas mon père. Je suis pire.",
+      "quotefooter": "Le pouvoir ne se donne pas, il se prend."
+    },
+    "media": {
+      "video": "https://files.catbox.moe/i72e5w.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/8kik7g.jpeg",
+        "gif": "https://files.catbox.moe/0t7v4k.jpeg",
+        "video": "https://files.catbox.moe/07y1n7.jpeg",
+        "image": "https://files.catbox.moe/yu8675.jpeg",
+        "audio": "https://files.catbox.moe/14dp56.jpeg",
+        "sticker": "https://files.catbox.moe/e8hi9o.jpeg"
+      }
+    }
+  },
+  "aomine": {
+    "name": "Daiki Aomine",
+    "design": {
+      "header": "🏀 ◎〰〰〰〰〰◎",
+      "line": "    ◎ 🌹 ",
+      "footer": "🏐 ◎〰〰〰〰〰🔫〰〰〰〰〰◎",
+      "bullet": "☯︎",
+      "quoteheader": "Le seul adversaire à ma hauteur, c'est moi-même.",
+      "quotefooter": "Je suis le sommet que personne n'atteindra."
+    },
+    "media": {
+      "video": "https://files.catbox.moe/xiikpk.mp4",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "deco": {
+        "text": "https://files.catbox.moe/8kik7g.jpeg",
+        "gif": "https://files.catbox.moe/0t7v4k.jpeg",
+        "video": "https://files.catbox.moe/07y1n7.jpeg",
+        "image": "https://files.catbox.moe/yu8675.jpeg",
+        "audio": "https://files.catbox.moe/14dp56.jpeg",
+        "sticker": "https://files.catbox.moe/e8hi9o.jpeg"
       }
     }
   }
