@@ -255,9 +255,9 @@
   "ohma": {
     "name": "Ohma Tokita",
     "design": {
-      "header": "👊 ░▒▓███████▓▒░ ",
+      "header": "👊 ░▒⫸⫸⫸⫸⫸⫸▒░ ",
       "line": "     🥊 ",
-      "footer": "💥 ░▒▓███████▓▒░💥░▓█████▓▒░",
+      "footer": "💥 ░▒⫷⫷⫷⫷⫷⫷▒░✿░⫸⫸⫸⫸⫸⫸▒░",
       "bullet": "❖",
       "quoteheader": "🔥 \"Le Style Niko ne connaît pas de limites.\"",
       "quotefooter": " Asura Incarné"
@@ -378,7 +378,7 @@
       "quotefooter": "Dans la brume, nous sommes les rois."
     },
     "media": {
-      "video": "https://files.catbox.moe/b2094q.mp4",
+      "video": "https://files.catbox.moe/c23q8w.mp4",
       "audio": "https://files.catbox.moe/xqtrev.ogg",
       "deco": {
         "text": "https://files.catbox.moe/8kik7g.jpeg",
@@ -401,7 +401,7 @@
       "quotefooter": "La vérité est plus étrange que la fiction."
     },
     "media": {
-      "video": "https://files.catbox.moe/et1jq7.mp4",
+      "video": "https://files.catbox.moe/c23q8w.mp4",
       "audio": "https://files.catbox.moe/xqtrev.ogg",
       "deco": {
         "text": "https://files.catbox.moe/8kik7g.jpeg",
@@ -413,7 +413,7 @@
       }
     }
   },
-  "tarip": {
+  "tariq": {
     "name": "Tariq St. Patrick",
     "design": {
       "header": "┏━━━◉━━━❖",
@@ -447,7 +447,7 @@
       "quotefooter": "Je suis le sommet que personne n'atteindra."
     },
     "media": {
-      "video": "https://files.catbox.moe/xiikpk.mp4",
+      "video": "https://files.catbox.moe/c23q8w.mp4",
       "audio": "https://files.catbox.moe/xqtrev.ogg",
       "deco": {
         "text": "https://files.catbox.moe/8kik7g.jpeg",
