@@ -370,9 +370,9 @@
   "shelby": {
     "name": "Thomas Shelby",
     "design": {
-      "header": "╭━━━◈━━━✦",
+      "header": "🍺╭━━━◈━━━✦",
       "line": "┃",
-      "footer": "╰━━━◈━━━✦━━━◈━━━╯",
+      "footer": "🍺╰━━━◈━━━✦━━━◈━━━╯",
       "bullet": "🚬",
       "quoteheader": "Par ordre des Peaky Blinders.",
       "quotefooter": "Dans la brume, nous sommes les rois."
@@ -416,9 +416,9 @@
   "tariq": {
     "name": "Tariq St. Patrick",
     "design": {
-      "header": "┏━━━◉━━━❖",
+      "header": "♠️┏━━━◉━━━❖",
       "line": "┃",
-      "footer": "┗━━━◉━━━❖━━━◉━━━┛",
+      "footer": "♣️┗━━━◉━━━❖━━━◉━━━┛",
       "bullet": "💸",
       "quoteheader": "Je ne suis pas mon père. Je suis pire.",
       "quotefooter": "Le pouvoir ne se donne pas, il se prend."
@@ -459,4 +459,4 @@
       }
     }
   }
-  }
+}
