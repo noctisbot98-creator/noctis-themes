@@ -11,7 +11,7 @@
     },
     "media": {
       "video": "https://files.catbox.moe/i72e5w.mp4",
-      "audio": "https://files.catbox.moe/0i9hq2.opus",
+      "audio": "https://files.catbox.moe/xqtrev.ogg",
       "deco": {
         "text": "https://files.catbox.moe/8kik7g.jpeg",
         "gif": "https://files.catbox.moe/0t7v4k.jpeg",
@@ -27,7 +27,7 @@
     "design": {
       "header": "🔥 ════════☯︎ ",
       "line": "        ║ 💀 ",
-      "footer": "🔥 ╚═══════⚔️ ════╝",
+      "footer": "🔥 ╚════════⚔️ ════╝",
       "bullet": "☯︎",
       "quoteheader": "Dans ce monde, partout où il y a de la lumière, il y a aussi des ombres.",
       "quotefooter": "Réveille-toi de ton rêve. Le pouvoir absolu ne se demande pas, il se prend."
@@ -370,9 +370,9 @@
   "shelby": {
     "name": "Thomas Shelby",
     "design": {
-      "header": "╭━━━◈━━━●",
-      "line": "🍺",
-      "footer": "╰━━━◈━━━✦━━━◈━━━╯",
+      "header": "🍺╭━━━◈━━━✦",
+      "line": "┃🍻",
+      "footer": "🍺╰━━━◈━━━✦━━━◈━━━╯",
       "bullet": "🚬",
       "quoteheader": "Par ordre des Peaky Blinders.",
       "quotefooter": "Dans la brume, nous sommes les rois."
@@ -416,9 +416,9 @@
   "tariq": {
     "name": "Tariq St. Patrick",
     "design": {
-      "header": "♠️┏━━━◉━━━❖",
-      "line": "┃",
-      "footer": "♣️┗━━━◉━━━❖━━━◉━━━┛",
+      "header": "┏━━━◉━━━❖",
+      "line": "┃📃",
+      "footer": "┗━━━◉━━━❖━━━◉━━━┛",
       "bullet": "💸",
       "quoteheader": "Je ne suis pas mon père. Je suis pire.",
       "quotefooter": "Le pouvoir ne se donne pas, il se prend."
@@ -439,9 +439,9 @@
   "aomine": {
     "name": "Daiki Aomine",
     "design": {
-      "header": "🏀 ◎〰〰〰〰〰◎",
+      "header": "🏀 ⋞⋟⋞⋟⋞⋟⋞⋟⋞⋟⋞⋟👿",
       "line": "    ◎ 🌹 ",
-      "footer": "🏐 ◎〰〰〰〰〰🔫〰〰〰〰〰◎",
+      "footer": "🏐 ≔≔≔≔≔≔≔≔≔≔≔◉✿≔≔≔≔≔≔≔≔≔♢○○",
       "bullet": "☯︎",
       "quoteheader": "Le seul adversaire à ma hauteur, c'est moi-même.",
       "quotefooter": "Je suis le sommet que personne n'atteindra."
@@ -458,5 +458,119 @@
         "sticker": "https://files.catbox.moe/3r175v.jpg"
       }
     }
-  }
+  },
+"makima": {
+    "name": "Makima",
+    "design": {
+        "header": "⛓️ ▬▬▬▬▬▬▬⛩ ",
+        "line": "    │ 👁 ",
+        "footer": "⛓️╰─➤ ─➤─➤─➤─➤𝑴𝑨𝑲𝑰𝑴𝑨🩸",
+        "bullet": "◉",
+        "quoteheader": "Les chiens qui obéissent sont les meilleurs. Et toi, tu obéis très bien.",
+        "quotefooter": "Je veux créer un monde où personne ne souffre. Même si je dois devenir le mal pour ça."
+    },
+    "media": {
+        "video": "https://files.catbox.moe/rzs8f3.mp4",
+        "audio": "https://files.catbox.moe/xqtrev.ogg",
+        "deco": {
+            "text": "https://files.catbox.moe/REMPLACE_MAKIMA_DECO_TEXT.jpg",
+            "gif": "https://files.catbox.moe/REMPLACE_MAKIMA_DECO_GIF.jpg",
+            "video": "https://files.catbox.moe/REMPLACE_MAKIMA_DECO_VIDEO.jpg",
+            "image": "https://files.catbox.moe/REMPLACE_MAKIMA_DECO_IMAGE.jpg",
+            "audio": "https://files.catbox.moe/REMPLACE_MAKIMA_DECO_AUDIO.jpg",
+            "sticker": "https://files.catbox.moe/REMPLACE_MAKIMA_DECO_STICKER.jpg"
+        }
+    }
+},
+"inosuke": {
+    "name": "Inosuke Hashibira",
+    "design": {
+        "header": "🐗 ◍◍◍◍◍◍◍◍◍◍◍☘",
+        "line": "     │ 🌊 ",
+        "footer": "🌲 ≂≂≂≂≂≂≂≂≂≂≂≂🐗≂≂≂≂≂≂≂≂≂≂≂💨",
+        "bullet": "☠",
+        "quoteheader": "JE SUIS LE ROI DE LA MONTAGNE ! Personne ne me bat !",
+        "quotefooter": "Respire. Respire. Frappe avant que l'autre ne respire."
+    },
+    "media": {
+        "video": "https://files.catbox.moe/uq6ig4.mp4",
+        "audio": "https://files.catbox.moe/b9m2qr.opus",
+        "deco": {
+            "text": "https://files.catbox.moe/REMPLACE_INOSUKE_DECO_TEXT.jpg",
+            "gif": "https://files.catbox.moe/REMPLACE_INOSUKE_DECO_GIF.jpg",
+            "video": "https://files.catbox.moe/REMPLACE_INOSUKE_DECO_VIDEO.jpg",
+            "image": "https://files.catbox.moe/REMPLACE_INOSUKE_DECO_IMAGE.jpg",
+            "audio": "https://files.catbox.moe/REMPLACE_INOSUKE_DECO_AUDIO.jpg",
+            "sticker": "https://files.catbox.moe/REMPLACE_INOSUKE_DECO_STICKER.jpg"
+        }
+    }
+},
+"shadow": {
+    "name": "Shadow (Cid Kagenou)",
+    "design": {
+        "header": "👿 ▬▬▬▬▬𒆜",
+        "line": "    │ 👾 ",
+        "footer": "😈 ▬▬▬▬▬𒆜𝑺𝑯𝑨𝑫𝑶𝑾𒆜▬▬▬▬🥷",
+        "bullet": "⚔",
+        "quoteheader": "Je suis celui qui chasse dans l'ombre. Je suis... Shadow.",
+        "quotefooter": "I AM ATOMIC."
+    },
+    "media": {
+        "video": "https://files.catbox.moe/rzs8f3.mp4",
+        "audio": "https://files.catbox.moe/xqtrev.ogg",
+        "deco": {
+            "text": "https://files.catbox.moe/REMPLACE_SHADOW_DECO_TEXT.jpg",
+            "gif": "https://files.catbox.moe/REMPLACE_SHADOW_DECO_GIF.jpg",
+            "video": "https://files.catbox.moe/REMPLACE_SHADOW_DECO_VIDEO.jpg",
+            "image": "https://files.catbox.moe/REMPLACE_SHADOW_DECO_IMAGE.jpg",
+            "audio": "https://files.catbox.moe/REMPLACE_SHADOW_DECO_AUDIO.jpg",
+            "sticker": "https://files.catbox.moe/REMPLACE_SHADOW_DECO_STICKER.jpg"
+        }
+    }
+},
+"kenkaneki": {
+    "name": "Ken Kaneki",
+    "design": {
+        "header": "🦂 ▬▬▬▬▬▬𝑲𝑬𝑵",
+        "line": "    │ ⛓️",
+        "footer": "🖤 ▬▬▬▬▬▬𝑲𝑬𝑵▬▬▬▬𝑲𝑨𝑵𝑬𝑲𝑰▬▬🩸",
+        "bullet": "𓂀",
+        "quoteheader": "Si tu es assez fort pour supporter la douleur, tu peux devenir plus fort.",
+        "quotefooter": "Ce monde ne tourne pas rond. Et moi, je vais le dévorer."
+    },
+    "media": {
+        "video": "https://files.catbox.moe/rzs8f3.mp4",
+        "audio": "https://files.catbox.moe/xqtrev.ogg",
+        "deco": {
+            "text": "https://files.catbox.moe/REMPLACE_KENKANEKI_DECO_TEXT.jpg",
+            "gif": "https://files.catbox.moe/REMPLACE_KENKANEKI_DECO_GIF.jpg",
+            "video": "https://files.catbox.moe/REMPLACE_KENKANEKI_DECO_VIDEO.jpg",
+            "image": "https://files.catbox.moe/REMPLACE_KENKANEKI_DECO_IMAGE.jpg",
+            "audio": "https://files.catbox.moe/REMPLACE_KENKANEKI_DECO_AUDIO.jpg",
+            "sticker": "https://files.catbox.moe/REMPLACE_KENKANEKI_DECO_STICKER.jpg"
+        }
+    }
+},
+"arkha": {
+    "name": "Arkha",
+    "design": {
+        "header": "🗡 ✚✚✚✚✚✚✚✚☠️ ",
+        "line": "     ║ 🗑 ",
+        "footer": "⚔️✠✠✠✠✠✠𝕬𝕽𝕶𝕳𝕬✠✠✠✠✠✠◆",
+        "bullet": "☠",
+        "quoteheader": "Ce que le monde jette, je le transforme. Ce que le monde brûle, je le venge.",
+        "quotefooter": "Gachiakuta — rien ne se perd, tout devient arme."
+    },
+    "media": {
+        "video": "https://files.catbox.moe/rzs8f3.mp4",
+        "audio": "https://files.catbox.moe/xqtrev.ogg",
+        "deco": {
+            "text": "https://files.catbox.moe/REMPLACE_ARKHA_DECO_TEXT.jpg",
+            "gif": "https://files.catbox.moe/REMPLACE_ARKHA_DECO_GIF.jpg",
+            "video": "https://files.catbox.moe/REMPLACE_ARKHA_DECO_VIDEO.jpg",
+            "image": "https://files.catbox.moe/REMPLACE_ARKHA_DECO_IMAGE.jpg",
+            "audio": "https://files.catbox.moe/REMPLACE_ARKHA_DECO_AUDIO.jpg",
+            "sticker": "https://files.catbox.moe/REMPLACE_ARKHA_DECO_STICKER.jpg"
+        }
+    }
 }
