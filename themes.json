@@ -379,7 +379,7 @@
     },
     "media": {
       "video": "https://files.catbox.moe/c23q8w.mp4",
-      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "audio": "https://files.catbox.moe/uktoff.opus",
       "deco": {
         "text": "https://files.catbox.moe/831gh8.jpg",
         "gif": "https://files.catbox.moe/hz9zz5.jpg",
@@ -471,7 +471,7 @@
     },
     "media": {
       "video": "https://files.catbox.moe/rzs8f3.mp4",
-      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "audio": "https://files.catbox.moe/mtyhrt.opus",
       "deco": {
         "text": "https://files.catbox.moe/REMPLACE_MAKIMA_DECO_TEXT.jpg",
         "gif": "https://files.catbox.moe/REMPLACE_MAKIMA_DECO_GIF.jpg",
@@ -528,12 +528,12 @@
       }
     }
   },
-  "kenkaneki": {
+  "ken": {
     "name": "Ken Kaneki",
     "design": {
       "header": "🦂 ▬▬▬▬▬▬𝑲𝑬𝑵",
       "line": "    │ ⛓️",
-      "footer": "🖤 ▬▬▬▬▬▬𝑲𝑬𝑵▬▬▬▬𝑲𝑨𝑵𝑬𝑲𝑰▬▬🩸",
+      "footer": "🖤 ▬▬▬▬▬▬▬▬▬▬𝑲𝑨𝑵𝑬𝑲𝑰▬▬🩸",
       "bullet": "𓂀",
       "quoteheader": "Si tu es assez fort pour supporter la douleur, tu peux devenir plus fort.",
       "quotefooter": "Ce monde ne tourne pas rond. Et moi, je vais le dévorer."
@@ -552,7 +552,7 @@
     }
   },
   "arkha": {
-    "name": "Arkha",
+    "name": "Arkha Corvus",
     "design": {
       "header": "🗡 ✚✚✚✚✚✚✚✚☠️ ",
       "line": "     ║ 🗑 ",
@@ -571,6 +571,75 @@
         "image": "https://files.catbox.moe/REMPLACE_ARKHA_DECO_IMAGE.jpg",
         "audio": "https://files.catbox.moe/REMPLACE_ARKHA_DECO_AUDIO.jpg",
         "sticker": "https://files.catbox.moe/REMPLACE_ARKHA_DECO_STICKER.jpg"
+      }
+    }
+  },
+  "dazai": {
+    "name": "Osamu Dazai",
+    "design": {
+      "header": "◈━ 🩹 𝑫𝑨𝒁𝑨𝑰 ━◈",
+      "line": "    │ 🟠 ",
+      "footer": "🩹╰────────────➤ 𝑫𝑨𝒁𝑨𝑰 🖤",
+      "bullet": "✞☦︎",
+      "quoteheader": "Vivre, c'est souffrir. Mais mourir seul, c'est pire.",
+      "quotefooter": "La vraie force est de continuer à sourire malgré tout."
+    },
+    "media": {
+      "video": "https://files.catbox.moe/0rz1y6.mp4",
+      "audio": "https://files.catbox.moe/zf9z6g.opus",
+      "deco": {
+        "text": "https://files.catbox.moe/REMPLACE_DAZAI_DECO_TEXT.jpg",
+        "gif": "https://files.catbox.moe/REMPLACE_DAZAI_DECO_GIF.jpg",
+        "video": "https://files.catbox.moe/REMPLACE_DAZAI_DECO_VIDEO.jpg",
+        "image": "https://files.catbox.moe/REMPLACE_DAZAI_DECO_IMAGE.jpg",
+        "audio": "https://files.catbox.moe/REMPLACE_DAZAI_DECO_AUDIO.jpg",
+        "sticker": "https://files.catbox.moe/REMPLACE_DAZAI_DECO_STICKER.jpg"
+      }
+    }
+  },
+  "endo": {
+    "name": "Endo Yamato",
+    "design": {
+      "header": "◆━━ 🚬 𝑬𝑵𝑫𝑶 ◆",
+      "line": "    │ 🔥🕉︎ ",
+      "footer": "🚬╰─────────────➤ 𝑬𝑵𝑫𝑶 🖤",
+      "bullet": "☠",
+      "quoteheader": "Je ne cherche pas la paix. Je cherche la bagarre.",
+      "quotefooter": "Wind Breaker — frapper avant d'être frappé."
+    },
+    "media": {
+      "video": "https://files.catbox.moe/ubviqj.mp4",
+      "audio": "https://files.catbox.moe/zf9z6g.opus",
+      "deco": {
+        "text": "https://files.catbox.moe/REMPLACE_ENDO_DECO_TEXT.jpg",
+        "gif": "https://files.catbox.moe/REMPLACE_ENDO_DECO_GIF.jpg",
+        "video": "https://files.catbox.moe/REMPLACE_ENDO_DECO_VIDEO.jpg",
+        "image": "https://files.catbox.moe/REMPLACE_ENDO_DECO_IMAGE.jpg",
+        "audio": "https://files.catbox.moe/REMPLACE_ENDO_DECO_AUDIO.jpg",
+        "sticker": "https://files.catbox.moe/REMPLACE_ENDO_DECO_STICKER.jpg"
+      }
+    }
+  },
+  "jigen": {
+    "name": "Jigen (ジゲン)",
+    "design": {
+      "header": "❰ 🀄 𝑱𝑰𝑮𝑬𝑵 ❱ ─ 🕶️",
+      "line": "    │ 🎴 ",
+      "footer": "🀄╰─➤─➤─➤─➤─➤─➤─➤ 𝑱𝑰𝑮𝑬𝑵 🖤",
+      "bullet": "❀☯︎",
+      "quoteheader": "Le monde n'est qu'un échiquier. Et je déplace les pièces.",
+      "quotefooter": "Kara — tout n'est qu'un jeu."
+    },
+    "media": {
+      "video": "https://files.catbox.moe/ubviqj.mp4",
+      "audio": "https://files.catbox.moe/mtyhrt.opus",
+      "deco": {
+        "text": "https://files.catbox.moe/REMPLACE_JIGEN_DECO_TEXT.jpg",
+        "gif": "https://files.catbox.moe/REMPLACE_JIGEN_DECO_GIF.jpg",
+        "video": "https://files.catbox.moe/REMPLACE_JIGEN_DECO_VIDEO.jpg",
+        "image": "https://files.catbox.moe/REMPLACE_JIGEN_DECO_IMAGE.jpg",
+        "audio": "https://files.catbox.moe/REMPLACE_JIGEN_DECO_AUDIO.jpg",
+        "sticker": "https://files.catbox.moe/REMPLACE_JIGEN_DECO_STICKER.jpg"
       }
     }
   }
