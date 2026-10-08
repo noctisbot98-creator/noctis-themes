@@ -371,14 +371,14 @@
     "name": "Thomas Shelby",
     "design": {
       "header": "🍺╭━━━◈━━━✦",
-      "line": "┃🍻",
+      "line": "    ┃🍻",
       "footer": "🍺╰━━━◈━━━✦━━━◈━━━╯",
       "bullet": "🚬",
       "quoteheader": "Par ordre des Peaky Blinders.",
       "quotefooter": "Dans la brume, nous sommes les rois."
     },
     "media": {
-      "video": "https://files.catbox.moe/c23q8w.mp4",
+      "video": "https://files.catbox.moe/bnh71j.mp4",
       "audio": "https://files.catbox.moe/uktoff.opus",
       "deco": {
         "text": "https://files.catbox.moe/831gh8.jpg",
@@ -424,8 +424,8 @@
       "quotefooter": "Le pouvoir ne se donne pas, il se prend."
     },
     "media": {
-      "video": "https://files.catbox.moe/i72e5w.mp4",
-      "audio": "https://files.catbox.moe/xqtrev.ogg",
+      "video": "https://files.catbox.moe/hc7f91.mp4",
+      "audio": "https://files.catbox.moe/sxuerk.opus",
       "deco": {
         "text": "https://files.catbox.moe/jrwyqm.jpg",
         "gif": "https://files.catbox.moe/829q94.jpg",
@@ -516,7 +516,7 @@
       "quotefooter": "I AM ATOMIC."
     },
     "media": {
-      "video": "https://files.catbox.moe/rzs8f3.mp4",
+      "video": "https://files.catbox.moe/m1ra5j.mp4",
       "audio": "https://files.catbox.moe/xqtrev.ogg",
       "deco": {
         "text": "https://files.catbox.moe/REMPLACE_SHADOW_DECO_TEXT.jpg",
@@ -631,7 +631,7 @@
       "quotefooter": "Kara — tout n'est qu'un jeu."
     },
     "media": {
-      "video": "https://files.catbox.moe/ubviqj.mp4",
+      "video": "https://files.catbox.moe/ly0pch.mp4",
       "audio": "https://files.catbox.moe/mtyhrt.opus",
       "deco": {
         "text": "https://files.catbox.moe/REMPLACE_JIGEN_DECO_TEXT.jpg",
@@ -643,4 +643,4 @@
       }
     }
   }
-}
+    }
